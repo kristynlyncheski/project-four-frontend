@@ -11,7 +11,7 @@ const Callback = React.createClass({
   },
   render: function(){
     return(
-      <div><img src="http://downgraf.com/wp-content/uploads/2014/09/01-progress.gif" width="300" /></div>
+      <div></div>
     )
   }
 });
