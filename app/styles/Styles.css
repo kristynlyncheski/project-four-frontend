@@ -452,8 +452,10 @@ h4.saved-song-title {
 
 .dropdown-menu {
   min-width:250px;
+  overflow: scroll;
+  max-height: 400px;
   /*right: -15px;*/
-  overflow:hidden;
+  /*overflow:hidden;*/
   /*z-index: 9999;*/
 }
 
