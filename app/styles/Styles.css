@@ -10,7 +10,7 @@ body {
   color:#030027 !important;
   background-image: url('/app/assets/background-img-overlay.jpg');
   background-repeat: no-repeat;
-  background-size:cover;
+  background-size: cover;
   background-position:bottom;
 }
 
